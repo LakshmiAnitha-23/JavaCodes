@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract Demo/Abstract Demo.iml" filepath="$PROJECT_DIR$/Abstract Demo/Abstract Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Absraction real-time/Abstraction real-time.iml" filepath="$PROJECT_DIR$/Absraction real-time/Abstraction real-time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AccessModifiers/AccessModifiers.iml" filepath="$PROJECT_DIR$/AccessModifiers/AccessModifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayEnqueueanDeque/ArrayEnqueueanDeque.iml" filepath="$PROJECT_DIR$/ArrayEnqueueanDeque/ArrayEnqueueanDeque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayandStringincollection/ArrayandStringincollection.iml" filepath="$PROJECT_DIR$/ArrayandStringincollection/ArrayandStringincollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysStreamsExample/ArraysStreamsExample.iml" filepath="$PROJECT_DIR$/ArraysStreamsExample/ArraysStreamsExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buffered CharacterStream/Buffered CharacterStream.iml" filepath="$PROJECT_DIR$/Buffered CharacterStream/Buffered CharacterStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectTypesExample/CollectTypesExample.iml" filepath="$PROJECT_DIR$/CollectTypesExample/CollectTypesExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Datatypes/Datatypes.iml" filepath="$PROJECT_DIR$/Datatypes/Datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DottingExample/DottingExample.iml" filepath="$PROJECT_DIR$/DottingExample/DottingExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DottingObjects/DottingObjects.iml" filepath="$PROJECT_DIR$/DottingObjects/DottingObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DottingRealtimeexample/DottingRealtimeexample.iml" filepath="$PROJECT_DIR$/DottingRealtimeexample/DottingRealtimeexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation real-time/Encapsulation real-time.iml" filepath="$PROJECT_DIR$/Encapsulation real-time/Encapsulation real-time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileInputStream/FileInputStream.iml" filepath="$PROJECT_DIR$/FileInputStream/FileInputStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctioalInterface/FunctioalInterface.iml" filepath="$PROJECT_DIR$/FunctioalInterface/FunctioalInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functional Interface1/Functional Interface1.iml" filepath="$PROJECT_DIR$/Functional Interface1/Functional Interface1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hireracy inheritance real-time/Hireracy inheritance real-time.iml" filepath="$PROJECT_DIR$/Hireracy inheritance real-time/Hireracy inheritance real-time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO BufferedStream/IO BufferedStream.iml" filepath="$PROJECT_DIR$/IO BufferedStream/IO BufferedStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO Byte stream/IO Byte stream.iml" filepath="$PROJECT_DIR$/IO Byte stream/IO Byte stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO CharacterStream/IO CharacterStream.iml" filepath="$PROJECT_DIR$/IO CharacterStream/IO CharacterStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO DataStream/IO DataStream.iml" filepath="$PROJECT_DIR$/IO DataStream/IO DataStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO ObjectStream/IO ObjectStream.iml" filepath="$PROJECT_DIR$/IO ObjectStream/IO ObjectStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Implementing Interface/Implementing Interface.iml" filepath="$PROJECT_DIR$/Implementing Interface/Implementing Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance All types/Inheritance All types.iml" filepath="$PROJECT_DIR$/Inheritance All types/Inheritance All types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance real-time/Inheritance real-time.iml" filepath="$PROJECT_DIR$/Inheritance real-time/Inheritance real-time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intermediateoperators/Intermediateoperators.iml" filepath="$PROJECT_DIR$/Intermediateoperators/Intermediateoperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IteratorExample/IteratorExample.iml" filepath="$PROJECT_DIR$/IteratorExample/IteratorExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Training.iml" filepath="$PROJECT_DIR$/.idea/Java Training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda Expressions/Lambda Expressions.iml" filepath="$PROJECT_DIR$/Lambda Expressions/Lambda Expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda using Arrays/Lambda using Arrays.iml" filepath="$PROJECT_DIR$/Lambda using Arrays/Lambda using Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaArrayExample2/LambdaArrayExample2.iml" filepath="$PROJECT_DIR$/LambdaArrayExample2/LambdaArrayExample2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpressions2/LambdaExpressions2.iml" filepath="$PROJECT_DIR$/LambdaExpressions2/LambdaExpressions2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListIterator/ListIterator.iml" filepath="$PROJECT_DIR$/ListIterator/ListIterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListinCollection/ListinCollection.iml" filepath="$PROJECT_DIR$/ListinCollection/ListinCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapinCollections1/MapinCollections1.iml" filepath="$PROJECT_DIR$/MapinCollections1/MapinCollections1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NavigableSet/NavigableSet.iml" filepath="$PROJECT_DIR$/NavigableSet/NavigableSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QueueinCollections1/QueueinCollections1.iml" filepath="$PROJECT_DIR$/QueueinCollections1/QueueinCollections1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Red-Black Tree/Red-Black Tree.iml" filepath="$PROJECT_DIR$/Red-Black Tree/Red-Black Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetinCollections/SetinCollections.iml" filepath="$PROJECT_DIR$/SetinCollections/SetinCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatefulExample/StatefulExample.iml" filepath="$PROJECT_DIR$/StatefulExample/StatefulExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatelessOperations/StatelessOperations.iml" filepath="$PROJECT_DIR$/StatelessOperations/StatelessOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/StreamAPI.iml" filepath="$PROJECT_DIR$/StreamAPI/StreamAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI Filtering/StreamAPI Filtering.iml" filepath="$PROJECT_DIR$/StreamAPI Filtering/StreamAPI Filtering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPIObjects/StreamAPIObjects.iml" filepath="$PROJECT_DIR$/StreamAPIObjects/StreamAPIObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamCombinedExample/StreamCombinedExample.iml" filepath="$PROJECT_DIR$/StreamCombinedExample/StreamCombinedExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamMapExample/StreamMapExample.iml" filepath="$PROJECT_DIR$/StreamMapExample/StreamMapExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamReduceExample/StreamReduceExample.iml" filepath="$PROJECT_DIR$/StreamReduceExample/StreamReduceExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamSortExample/StreamSortExample.iml" filepath="$PROJECT_DIR$/StreamSortExample/StreamSortExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamWrapperExample/StreamWrapperExample.iml" filepath="$PROJECT_DIR$/StreamWrapperExample/StreamWrapperExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stringcollections/Stringcollections.iml" filepath="$PROJECT_DIR$/Stringcollections/Stringcollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switchcase/Switchcase.iml" filepath="$PROJECT_DIR$/Switchcase/Switchcase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SynchronizedSetExample/SynchronizedSetExample.iml" filepath="$PROJECT_DIR$/SynchronizedSetExample/SynchronizedSetExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SynchronizedTreeSet/SynchronizedTreeSet.iml" filepath="$PROJECT_DIR$/SynchronizedTreeSet/SynchronizedTreeSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TerminalOperator/TerminalOperator.iml" filepath="$PROJECT_DIR$/TerminalOperator/TerminalOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreeSetin collections/TreeSetin collections.iml" filepath="$PROJECT_DIR$/TreeSetin collections/TreeSetin collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Type casting/Type casting.iml" filepath="$PROJECT_DIR$/Type casting/Type casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection Interface/collection Interface.iml" filepath="$PROJECT_DIR$/collection Interface/collection Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controlstatements/controlstatements.iml" filepath="$PROJECT_DIR$/controlstatements/controlstatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/even numbers using lambda/even numbers using lambda.iml" filepath="$PROJECT_DIR$/even numbers using lambda/even numbers using lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functional interface with parameters/functional interface with parameters.iml" filepath="$PROJECT_DIR$/functional interface with parameters/functional interface with parameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maptypesstream/maptypesstream.iml" filepath="$PROJECT_DIR$/maptypesstream/maptypesstream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/method reference1/method reference1.iml" filepath="$PROJECT_DIR$/method reference1/method reference1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cmpile time polymorphism real-time/methodoverloading real-time.iml" filepath="$PROJECT_DIR$/cmpile time polymorphism real-time/methodoverloading real-time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodoverriding/methodoverriding real-time.iml" filepath="$PROJECT_DIR$/methodoverriding/methodoverriding real-time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multilevel inheritance real-time/multilevel inheritance real-time.iml" filepath="$PROJECT_DIR$/multilevel inheritance real-time/multilevel inheritance real-time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiple inheritance via interfaces/multiple inheritance via interfaces.iml" filepath="$PROJECT_DIR$/multiple inheritance via interfaces/multiple inheritance via interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multipleinheritance real-time/multipleinheritance real-time.iml" filepath="$PROJECT_DIR$/multipleinheritance real-time/multipleinheritance real-time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops classobject/oops classobject.iml" filepath="$PROJECT_DIR$/oops classobject/oops classobject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overloading-compile time/overloading-compile time.iml" filepath="$PROJECT_DIR$/overloading-compile time/overloading-compile time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overriding-runtime/overriding-runtime.iml" filepath="$PROJECT_DIR$/overriding-runtime/overriding-runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parallelstreamExample/parallelstreamExample.iml" filepath="$PROJECT_DIR$/parallelstreamExample/parallelstreamExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodoverriding real-time/runtime-polymorphismm.iml" filepath="$PROJECT_DIR$/methodoverriding real-time/runtime-polymorphismm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort array using lambda/sort array using lambda.iml" filepath="$PROJECT_DIR$/sort array using lambda/sort array using lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static keyword/static keyword.iml" filepath="$PROJECT_DIR$/static keyword/static keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/synchronized List/synchronized List.iml" filepath="$PROJECT_DIR$/synchronized List/synchronized List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/synchronized and Asynchronized/synchronized and Asynchronized.iml" filepath="$PROJECT_DIR$/synchronized and Asynchronized/synchronized and Asynchronized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/synchronizedHashmap/synchronizedHashmap.iml" filepath="$PROJECT_DIR$/synchronizedHashmap/synchronizedHashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrapperclassesinstreams/wrapperclassesinstreams.iml" filepath="$PROJECT_DIR$/wrapperclassesinstreams/wrapperclassesinstreams.iml" />
+    </modules>
+  </component>
+</project>
