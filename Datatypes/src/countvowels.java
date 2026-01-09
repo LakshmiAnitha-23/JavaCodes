@@ -1,4 +1,21 @@
-package PACKAGE_NAME;
+public class countvowels
+{
+    public static void main(String[] args)
+    {
+        String str = "Java programming";
+        int count = 0;
 
-public class countvowels {
+        str = str.toLowerCase();
+
+        for(int i=0; i<str.length(); i++)
+        {
+            char ch = str.charAt(i);
+
+            if(ch=='a' || ch=='e'||ch=='i'|| ch== 'o' || ch=='u')
+            {
+                count++;
+            }
+        }
+        System.out.println("vowels count: " + count);
+    }
 }

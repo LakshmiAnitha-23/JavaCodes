@@ -1,4 +1,15 @@
-package PACKAGE_NAME;
+public class reversestring
+{
+    public static void main(String[] args)
+    {
+        String str = "Anitha";
+        String reversed = "";
 
-public class reversestring {
+        for(int i = str.length() - 1; i>=0; i--)
+        {
+            reversed = reversed + str.charAt(i);
+        }
+
+        System.out.println("Reversed: " + reversed);
+    }
 }
